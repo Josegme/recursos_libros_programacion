@@ -1,2 +1,6 @@
-# recursos_libros_programacion
-📚 Recursos y libros útiles sobre programación/desarrollo
+# 📚 Libros de Programación
+
+Una colección personal de libros útiles para aprender distintas tecnologías y lenguajes.
+
+## 📘 Lista de libros
+
